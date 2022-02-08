@@ -30,4 +30,7 @@
   .dropdown-toggle {
     outline: 0;
   }
-  
+
+.div {
+  border-bottom-width: thin;
+}
