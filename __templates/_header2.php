@@ -41,11 +41,17 @@
                                     <li class="nav-item">
                                         <a class="nav-link" href="#">LeaderBoard</a>
                                     </li>
+                                    <li class="nav-item">
+                                        <button style="margin-top: 4px; margin-left: 20px; font-size: 20px;"type="button" class="btn btn-outline-primary" name="Login">Login</button>
+                                    </li>
+                                    <li class="nav-item"> 
+                                        <button style="margin-top: 4px; margin-left: 20px; font-size: 20px;"  type="button" class="btn btn-primary">Sign-up</button>
+                                    </li>
                                 </ul>
-                                <div class="col-md-3 text-end">
+                                <!-- <div class="col-md-3 text-end">
                                     <button type="button" class="btn btn-outline-primary me-2">Login</button>
                                     <button type="button" class="btn btn-primary">Sign-up</button>
-                                </div>
+                                </div> -->
                             </div>
                         </nav>
                     </div>
@@ -72,11 +78,11 @@
 </header>
 <!-- end header -->
 <script src="../javascript/jquery.min.js"></script>
-      <script src="../javascript/popper.min.js"></script>
-      <script src="../javascript/bootstrap.bundle.min.js"></script>
-      <script src="../javascript/jquery-3.0.0.min.js"></script>
-      
-      <!-- sidebar -->
-      <script src="../javascript/jquery.mCustomScrollbar.concat.min.js"></script>
-      <script src="../javascript/custom.js"></script>
-      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
+<script src="../javascript/popper.min.js"></script>
+<script src="../javascript/bootstrap.bundle.min.js"></script>
+<script src="../javascript/jquery-3.0.0.min.js"></script>
+
+<!-- sidebar -->
+<script src="../javascript/jquery.mCustomScrollbar.concat.min.js"></script>
+<script src="../javascript/custom.js"></script>
+<script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
