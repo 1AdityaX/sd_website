@@ -71,3 +71,12 @@
     </div>
 </header>
 <!-- end header -->
+<script src="../javascript/jquery.min.js"></script>
+      <script src="../javascript/popper.min.js"></script>
+      <script src="../javascript/bootstrap.bundle.min.js"></script>
+      <script src="../javascript/jquery-3.0.0.min.js"></script>
+      
+      <!-- sidebar -->
+      <script src="../javascript/jquery.mCustomScrollbar.concat.min.js"></script>
+      <script src="../javascript/custom.js"></script>
+      <script src="https:cdnjs.cloudflare.com/ajax/libs/fancybox/2.1.5/jquery.fancybox.min.js"></script>
