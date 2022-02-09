@@ -42,16 +42,12 @@
                                         <a class="nav-link" href="#">LeaderBoard</a>
                                     </li>
                                     <li class="nav-item">
-                                        <button style="margin-top: 4px; margin-left: 20px; font-size: 20px;"type="button" class="btn btn-outline-primary" name="Login">Login</button>
+                                        <button style=" margin-left: 20px; font-size: 20px;"type="button" class="btn btn-primary" name="Login">Login</button>
                                     </li>
-                                    <li class="nav-item"> 
+                                    <!-- <li class="nav-item"> 
                                         <button style="margin-top: 4px; margin-left: 20px; font-size: 20px;"  type="button" class="btn btn-primary">Sign-up</button>
-                                    </li>
+                                    </li> -->
                                 </ul>
-                                <!-- <div class="col-md-3 text-end">
-                                    <button type="button" class="btn btn-outline-primary me-2">Login</button>
-                                    <button type="button" class="btn btn-primary">Sign-up</button>
-                                </div> -->
                             </div>
                         </nav>
                     </div>
