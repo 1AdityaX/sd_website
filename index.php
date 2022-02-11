@@ -10,6 +10,8 @@ include "utility/utils.php"
     <?php load_template("_section.php") ?>
     <div class="page_separation"></div>
     <?php load_template("_howitworks.php") ?>
+    <div class="page_separation"></div>
+    <?php load_template("_footer.php") ?>
 
 </body>
 

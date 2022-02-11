@@ -1,7 +1,7 @@
 <main class="form-signin">
     <form method="post" action="login.php">
         <div class="login-container-wrapper clearfix">
-            <img class="mb-4" src="../assets/brand/recycle.svg" alt="" width="280" height="140">
+            <img class="mb-4" src="../assets/brand/recycle.svg" alt="logo" width="280" height="140">
             <h2 class="h3 mb-3 fw-normal">Log in</h2>
 
             <div class="form-floating">

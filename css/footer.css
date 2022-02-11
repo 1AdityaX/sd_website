@@ -1,0 +1,14 @@
+.bigger{
+    font-size: large;
+}
+
+.container-max-width{
+    width: max-content;
+}
+
+.logo_padding{
+    width: 60px;
+    height: 100px;
+    padding-left: 10px;
+    padding-top: 50px;
+}
